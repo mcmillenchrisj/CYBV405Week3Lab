@@ -1,1 +1,1 @@
-print("Hello from APCV 405!")
+print("Hello from APCV 405! We are currently in the Week 3 Lab!")
